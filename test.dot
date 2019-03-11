@@ -1,0 +1,9 @@
+digraph fig1 {
+	layout=circo
+	Y -> Y ;
+	S -> S ;
+	V -> V ;
+	N -> N ;
+	N -> Y ;
+	Y -> N ;
+}
